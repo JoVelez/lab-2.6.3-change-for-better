@@ -1,7 +1,8 @@
 nav,
 .nav {
+
     color: white;
-    background: linear-gradient(#888DF2,#05C7F2);
+    background:#e05faf;
 }
 
 main,
@@ -27,7 +28,7 @@ main,
 
 footer,
 .footer {
-    background: linear-gradient(#888DF2,#05C7F2);
+    background:#e05faf;
     color: white;
 }
 
